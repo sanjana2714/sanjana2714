@@ -1,4 +1,10 @@
-# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=✨+SANJANA+✨;💻+SOFTWARE+ENGINEER;📊+DATA+ANALYST;🤖+AI+%2F+NLP+DEVELOPER&font=Lexend&size=38&center=true&color=2dd4bf&vCenter=true&width=550&height=75" alt="Animated Header" /></a></p>
+<h1 align="center">SANJANA</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=SOFTWARE+ENGINEER;DATA+ANALYST;AI+%2F+NLP+DEVELOPER;POWER+BI+SPECIALIST&font=Lexend&size=22&center=true&color=2dd4bf&vCenter=true&width=450&height=40" alt="Typing Roles" />
+  </a>
+</p>
 
 ---
 
@@ -7,7 +13,7 @@ I am a passionate **Software Engineer** and **Data Analyst** dedicated to engine
 
 ---
 
-### 🚀 Featured Deployed Platforms
+### 🚀 Deployed Platforms
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
@@ -64,9 +70,12 @@ I am a passionate **Software Engineer** and **Data Analyst** dedicated to engine
 ---
 
 ### 📈 Language Distribution
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana2714&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+*   **Python** (60%) 
+    `██████████████████████████████░░░░░░░░░░░░░░░░░░░░`
+*   **TypeScript & JavaScript** (30%) 
+    `██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+*   **SQL / HTML / Other** (10%) 
+    `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
 ---
 
