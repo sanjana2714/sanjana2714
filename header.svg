@@ -77,6 +77,5 @@
   <!-- Animated Roles -->
   <text x="400" y="145" class="role-text role1">SOFTWARE ENGINEER</text>
   <text x="400" y="145" class="role-text role2">DATA ANALYST</text>
-  <text x="400" y="145" class="role-text role3">AI / NLP DEVELOPER</text>
   <text x="400" y="145" class="role-text role4">POWER BI SPECIALIST</text>
 </svg>
