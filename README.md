@@ -1,4 +1,6 @@
-<h1 align="center">SANJANA</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/canvas/images?type=soft&color=gradient&height=120&text=SANJANA&fontSize=60&theme=tokyonight&animation=fadeIn" alt="SANJANA" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -35,26 +37,15 @@ I am a passionate **Software Engineer** and **Data Analyst** dedicated to engine
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
+### 💻 Languages Used Across Repositories
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  
-  <!-- Web Tech -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  
-  <!-- Libraries & Data -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ---
@@ -66,16 +57,6 @@ I am a passionate **Software Engineer** and **Data Analyst** dedicated to engine
 *   **🎓 [GyanSetu](https://github.com/sanjana2714/Gyan-setu)**: AI-driven platform with customizable learning paths, AI summaries, and parent-teacher chat channels.
 *   **📊 [Power BI Analytics Portfolio](https://github.com/sanjana2714/POWER-BI-PROJECTS)**: Core suite of interactive dashboards across Banking Sales, E-commerce, HR attrition, Finance, and Academics.
 *   **💬 [Healthcare Assistant Chatbot](https://github.com/sanjana2714/chatbot-for-health-assistance)**: Streamlit NLP agent utilizing TF-IDF text classification and Logistic Regression.
-
----
-
-### 📈 Language Distribution
-*   **Python** (60%) 
-    `██████████████████████████████░░░░░░░░░░░░░░░░░░░░`
-*   **TypeScript & JavaScript** (30%) 
-    `██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
-*   **SQL / HTML / Other** (10%) 
-    `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
 ---
 
