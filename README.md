@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/canvas/images?type=soft&color=gradient&height=120&text=SANJANA&fontSize=60&theme=tokyonight&animation=fadeIn" alt="SANJANA" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=SANJANA&font=Righteous&size=65&center=true&color=2dd4bf&vCenter=true&width=450&height=90&duration=5000&repeat=false" alt="SANJANA" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=SOFTWARE+ENGINEER;DATA+ANALYST;AI+%2F+NLP+DEVELOPER;POWER+BI+SPECIALIST&font=Lexend&size=22&center=true&color=2dd4bf&vCenter=true&width=450&height=40" alt="Typing Roles" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=SOFTWARE+ENGINEER;DATA+ANALYST;AI+%2F+NLP+DEVELOPER;POWER+BI+SPECIALIST&font=Lexend&size=22&center=true&color=FFFFFF&vCenter=true&width=450&height=40" alt="Typing Roles" />
   </a>
 </p>
 
