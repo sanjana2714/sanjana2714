@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&amp;family=Lexend:wght@400;600&amp;display=swap');
+      
+      .name-text {
+        font-family: 'Dancing Script', cursive;
+        font-size: 48px;
+        fill: #ffffff;
+        text-anchor: middle;
+      }
+      
+      .role-text {
+        font-family: 'Lexend', sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        fill: #2dd4bf;
+        text-anchor: middle;
+        letter-spacing: 3px;
+        opacity: 0;
+      }
+
+      /* Opacity animations for cycling */
+      @keyframes cycle1 {
+        0%, 22% { opacity: 1; }
+        25%, 100% { opacity: 0; }
+      }
+      @keyframes cycle2 {
+        0%, 25% { opacity: 0; }
+        28%, 47% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes cycle3 {
+        0%, 50% { opacity: 0; }
+        53%, 72% { opacity: 1; }
+        75%, 100% { opacity: 0; }
+      }
+      @keyframes cycle4 {
+        0%, 75% { opacity: 0; }
+        78%, 97% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+
+      .role1 { animation: cycle1 12s infinite; }
+      .role2 { animation: cycle2 12s infinite; }
+      .role3 { animation: cycle3 12s infinite; }
+      .role4 { animation: cycle4 12s infinite; }
+
+      .bg-rect {
+        fill: url(#animated-grad);
+      }
+    </style>
+
+    <linearGradient id="animated-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b">
+        <animate attributeName="stop-color" values="#1e1b4b;#311042;#1e1b4b" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#3b0764">
+        <animate attributeName="stop-color" values="#3b0764;#115e59;#3b0764" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#030712;#0f172a" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    
+    <clipPath id="rect-clip">
+      <rect width="800" height="200" rx="15" />
+    </clipPath>
+  </defs>
+
+  <!-- Background with round corners -->
+  <rect width="800" height="200" rx="15" class="bg-rect" clip-path="url(#rect-clip)" />
+
+  <!-- Name -->
+  <text x="400" y="95" class="name-text">Hello, Sanjana Here 👋</text>
+
+  <!-- Animated Roles -->
+  <text x="400" y="145" class="role-text role1">SOFTWARE ENGINEER</text>
+  <text x="400" y="145" class="role-text role2">DATA ANALYST</text>
+  <text x="400" y="145" class="role-text role3">AI / NLP DEVELOPER</text>
+  <text x="400" y="145" class="role-text role4">POWER BI SPECIALIST</text>
+</svg>

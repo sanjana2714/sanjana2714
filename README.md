@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=SANJANA&font=Righteous&size=65&center=true&color=2dd4bf&vCenter=true&width=450&height=90&duration=5000&repeat=false" alt="SANJANA" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=SOFTWARE+ENGINEER;DATA+ANALYST;AI+%2F+NLP+DEVELOPER;POWER+BI+SPECIALIST&font=Lexend&size=22&center=true&color=FFFFFF&vCenter=true&width=450&height=40" alt="Typing Roles" />
-  </a>
+  <img src="https://raw.githubusercontent.com/sanjana2714/sanjana2714/main/header.svg" alt="G. Sanjana Reddy Header" />
 </p>
 
 ---
