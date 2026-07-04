@@ -1,57 +1,84 @@
-# Hi there, I'm Sanjana! 👋
+# G. Sanjana Reddy
 
-A passionate **Software Engineer** and **Data Analyst** specializing in building AI-powered web applications, Natural Language Processing (NLP) classifiers, and interactive business intelligence dashboards.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/canvas/images?type=waving&color=gradient&height=200&section=header&text=G.%20Sanjana%20Reddy&fontSize=45&animation=fadeIn&theme=tokyonight" alt="Header" />
+</p>
 
----
-
-## 🚀 Deployed Applications
-*   **🧠 [PsyConnect](https://psy-connect-omega.vercel.app/)** - A comprehensive psychological first-aid platform for student support (Next.js, Firebase, Google Gemini API, Capacitor).
-*   **🎓 [GyanSetu](https://studio-8755947463-6e0d7.web.app/)** - An AI-powered digital learning platform built to personalize education in rural communities (Next.js, Firebase, Gemini 2.0 Flash).
-
----
-
-## 🛠️ Tech Stack & Skills
-*   **Languages**: Python, TypeScript, JavaScript, SQL
-*   **Web Frameworks**: Next.js, React, FastAPI, Streamlit, Vite
-*   **Data Science & Machine Learning**: Scikit-Learn, PyTorch, Pandas, NumPy, XGBoost, NLTK
-*   **Data Visualization & BI**: Power BI, Seaborn, Matplotlib, Chart.js
-*   **Cloud & DevOps**: Firebase (Firestore, Authentication, Hosting), Git, GitHub
-
----
-
-## 📂 Featured Repositories
-
-### 1. [🧠 PsyConnect](https://github.com/sanjana2714/psyconnect)
-A mental health platform that bridges the communication gap between students and counselors.
-*   **Features**: Floating 24/7 Gemini-powered AI helper, PHQ-9 & GAD-7 assessments, Peer-to-peer forum, appointment booking.
-*   **Stack**: Next.js, Tailwind CSS, ShadCN, Firebase, Google Generative AI.
-
-### 2. [⚡ Smart Grid Energy Forecasting](https://github.com/sanjana2714/smart-grid-energy-forecasting)
-An end-to-end intelligent forecasting system for short-to-medium term electricity demand in smart grids.
-*   **Features**: Compares Linear Regression, Random Forest, XGBoost, and MLP. Real-time predictions via FastAPI backend and interactive React frontend.
-*   **Stack**: Python, Scikit-Learn, XGBoost, PyTorch, FastAPI, React, Chart.js.
-
-### 3. [🎓 GyanSetu](https://github.com/sanjana2714/Gyan-setu)
-An educational platform offering custom learning paths and progression tracking.
-*   **Features**: Personalized learning modules, automated academic summary insights, Parent-Teacher chat system.
-*   **Stack**: Next.js 14, Tailwind CSS, Firebase, Gemini 2.0 Flash.
-
-### 4. [📊 Power BI Analytics Portfolio](https://github.com/sanjana2714/POWER-BI-PROJECTS)
-A collection of 6 professional interactive business intelligence dashboards.
-*   **Dashboards**: Banking Sales, E-commerce Logistics, HR Attrition, Financial Budget Analysis, Sales Margins, and Student Academic Performance.
-
-### 5. [💬 Healthcare Assistant Chatbot](https://github.com/sanjana2714/chatbot-for-health-assistance)
-An NLP-based medical assistant designed to triage common health queries.
-*   **Features**: TF-IDF text preprocessing and Logistic Regression classifier built on custom intents dataset.
-*   **Stack**: Streamlit, Scikit-Learn, NLTK, Python.
-
----
-
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjana2714&show_icons=true&theme=calm" alt="Sanjana's GitHub Stats" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Data+Analyst;AI+%2F+NLP+Developer;Power+BI+Specialist&font=Outfit&size=24&center=true&color=2dd4bf&vCenter=true&width=450&height=45" alt="Typing Animation" />
+  </a>
 </p>
 
 ---
 
-*📫 Feel free to explore my repositories! I am always open to discussing new projects, collaboration opportunities, and innovative technologies.*
+### 👋 About Me
+I am a passionate **Software Engineer** and **Data Analyst** dedicated to engineering intelligent systems. My expertise spans building scalable AI-integrated web platforms, implementing Natural Language Processing (NLP) solutions, and visualizing complex business data to drive impactful decisions.
+
+---
+
+### 🚀 Featured Deployed Platforms
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://psy-connect-omega.vercel.app/">
+        <img src="https://img.shields.io/badge/PsyConnect-Live%20Demo-purple?style=for-the-badge&logo=react&logoColor=white" alt="PsyConnect" />
+      </a>
+      <br />
+      <i>Psychological First-Aid Platform supporting student mental health.</i>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://studio-8755947463-6e0d7.web.app/">
+        <img src="https://img.shields.io/badge/GyanSetu-Live%20Demo-blue?style=for-the-badge&logo=firebase&logoColor=white" alt="GyanSetu" />
+      </a>
+      <br />
+      <i>AI-powered personalized digital education platform.</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  
+  <!-- Web Tech -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  
+  <!-- Libraries & Data -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+---
+
+### 📂 Featured Repositories
+
+*   **🧠 [PsyConnect](https://github.com/sanjana2714/psyconnect)**: Mental health platform featuring a floating 24/7 Gemini-powered AI helper, PHQ-9 diagnostics, peer forums, and scheduling.
+*   **⚡ [Smart Grid Energy Forecasting](https://github.com/sanjana2714/smart-grid-energy-forecasting)**: Electricity demand forecasting comparing Linear Regression, Random Forest, XGBoost, and MLP models.
+*   **🎓 [GyanSetu](https://github.com/sanjana2714/Gyan-setu)**: AI-driven platform with customizable learning paths, AI summaries, and parent-teacher chat channels.
+*   **📊 [Power BI Analytics Portfolio](https://github.com/sanjana2714/POWER-BI-PROJECTS)**: Core suite of interactive dashboards across Banking Sales, E-commerce, HR attrition, Finance, and Academics.
+*   **💬 [Healthcare Assistant Chatbot](https://github.com/sanjana2714/chatbot-for-health-assistance)**: Streamlit NLP agent utilizing TF-IDF text classification and Logistic Regression.
+
+---
+
+### 📈 GitHub Statistics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjana2714&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjana2714&theme=tokyonight" alt="GitHub Streak" />
+</p>
