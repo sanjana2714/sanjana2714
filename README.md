@@ -1,14 +1,4 @@
-# G. Sanjana Reddy
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/canvas/images?type=waving&color=gradient&height=200&section=header&text=G.%20Sanjana%20Reddy&fontSize=45&animation=fadeIn&theme=tokyonight" alt="Header" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Data+Analyst;AI+%2F+NLP+Developer;Power+BI+Specialist&font=Outfit&size=24&center=true&color=2dd4bf&vCenter=true&width=450&height=45" alt="Typing Animation" />
-  </a>
-</p>
+# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=✨+SANJANA+✨;💻+SOFTWARE+ENGINEER;📊+DATA+ANALYST;🤖+AI+%2F+NLP+DEVELOPER&font=Lexend&size=38&center=true&color=2dd4bf&vCenter=true&width=550&height=75" alt="Animated Header" /></a></p>
 
 ---
 
@@ -70,13 +60,6 @@ I am a passionate **Software Engineer** and **Data Analyst** dedicated to engine
 *   **🎓 [GyanSetu](https://github.com/sanjana2714/Gyan-setu)**: AI-driven platform with customizable learning paths, AI summaries, and parent-teacher chat channels.
 *   **📊 [Power BI Analytics Portfolio](https://github.com/sanjana2714/POWER-BI-PROJECTS)**: Core suite of interactive dashboards across Banking Sales, E-commerce, HR attrition, Finance, and Academics.
 *   **💬 [Healthcare Assistant Chatbot](https://github.com/sanjana2714/chatbot-for-health-assistance)**: Streamlit NLP agent utilizing TF-IDF text classification and Logistic Regression.
-
----
-
-### 🧠 Developer Wisdom (Dynamic Quote)
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programmer Quote" />
-</p>
 
 ---
 
