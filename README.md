@@ -73,12 +73,20 @@ I am a passionate **Software Engineer** and **Data Analyst** dedicated to engine
 
 ---
 
-### 📈 GitHub Statistics & Activity
-
+### 🧠 Developer Wisdom (Dynamic Quote)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjana2714&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programmer Quote" />
 </p>
 
+---
+
+### 📈 Language Distribution
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjana2714&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana2714&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanjana2714.sanjana2714&left_color=gray&right_color=teal" alt="Visitors" />
 </p>
